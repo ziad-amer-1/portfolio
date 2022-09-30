@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.585e715a.js",
+    "static/media/astronaut.png": "/portfolio/static/media/astronaut.a1b0d7fff07de6f1156d.png",
+    "static/media/weather-app.png": "/portfolio/static/media/weather-app.5dac97e373cadf77ca18.png",
+    "static/media/movie-app.png": "/portfolio/static/media/movie-app.2850e33bc2c1711e3278.png",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/portfolio/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/portfolio/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.dd153efe38dc379d8933.png",
+    "static/media/quiz-app.png": "/portfolio/static/media/quiz-app.ef9fdfa701ec40153737.png",
+    "static/media/todo-app.png": "/portfolio/static/media/todo-app.f06f666d0626cbd72782.png",
+    "static/media/profile-img.png": "/portfolio/static/media/profile-img.5179e446ac1a570ce69b.png",
+    "static/media/4.png": "/portfolio/static/media/4.9e490633a21948ecf996.png",
+    "static/media/3.png": "/portfolio/static/media/3.a3f03dec89cb06b63171.png",
+    "static/media/12.png": "/portfolio/static/media/12.26e6deab019bae9e6dec.png",
+    "static/media/10.png": "/portfolio/static/media/10.cf63fb455a2933f92a64.png",
+    "static/media/5.png": "/portfolio/static/media/5.8678d638a2bb4f646829.png",
+    "static/media/11.png": "/portfolio/static/media/11.b2e053e1c3204bd75e84.png",
+    "static/media/7.png": "/portfolio/static/media/7.215244495298c483938e.png",
+    "static/media/6.png": "/portfolio/static/media/6.b136aba9014529abad96.png",
+    "static/media/1.png": "/portfolio/static/media/1.6aff10dd3c88cde4d5a1.png",
+    "static/media/9.png": "/portfolio/static/media/9.a675771679807354a7f5.png",
+    "static/media/2.png": "/portfolio/static/media/2.3e6b8114f5eaaafd1559.png",
+    "static/media/8.png": "/portfolio/static/media/8.8aaa865c41097baa5f52.png",
+    "index.html": "/portfolio/index.html",
+    "main.585e715a.js.map": "/portfolio/static/js/main.585e715a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.585e715a.js"
+  ]
+}
